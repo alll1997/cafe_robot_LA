@@ -1,4 +1,4 @@
-# Cafe de robot en Los Angeles 
+# Cafe de robots en Los Angeles 
 ### Desafio
 Se ha decidido abrir un pequeño café regentado por robots en Los Ángeles. El proyecto es prometedor pero caro, así que el objetivo es atraer inversionistas. El interes es analizar las condiciones actuales del mercado, ¿serás capaz de mantener tu éxito cuando la novedad de los camareros robot desaparezca?
 Tienes datos procedentes de fuentes abiertas sobre restaurantes en LA.
